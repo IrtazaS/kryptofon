@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="doc" doctitle="Kryptofon" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" overview="C:\Work\space\ip1-10\desc\overview.html" packagenames="ui,crypto,pbx,audio,protocol,utils" source="1.6" sourcefiles="src/CryptoPhoneApp.java" sourcepath="src" splitindex="false" use="false" version="true"/>
+    </target>
+</project>
