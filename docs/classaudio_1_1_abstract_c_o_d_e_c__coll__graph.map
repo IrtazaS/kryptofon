@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interfaceaudio_1_1_audio_interface.html" title="The abstract audio interface." alt="" coords="5,6,176,317"/>
+<area shape="rect" id="node4" href="$classaudio_1_1_audio_interface_p_c_m.html" title="Implements the audio interface for 16&#45;bit signed linear audio (PCM_SIGNED)." alt="" coords="200,419,445,1579"/>
+<area shape="rect" id="node13" href="$classaudio_1_1_audio_buffer.html" title="Encapsulates the concept of an audio buffer with a time&#45;stamp." alt="" coords="592,49,715,273"/>
+</map>

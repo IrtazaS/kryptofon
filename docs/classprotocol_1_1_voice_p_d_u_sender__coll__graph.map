@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$interfaceaudio_1_1_audio_interface_1_1_packetizer.html" title="Audio sender interface used by instance of the AudioInterface class to send captured audio samples to..." alt="" coords="5,636,211,721"/>
+<area shape="rect" id="node4" href="$interfaceaudio_1_1_audio_interface.html" title="The abstract audio interface." alt="" coords="221,6,392,317"/>
+<area shape="rect" id="node6" href="$classprotocol_1_1_call_context.html" title="CallContext deals with all the packets that are part of a specific call." alt="" coords="315,385,507,973"/>
+<area shape="rect" id="node8" href="$classprotocol_1_1_remote_peer.html" title="Encapsulates the link between the UDP channel and a CallContext." alt="" coords="468,1041,631,1421"/>
+<area shape="rect" id="node10" href="$classprotocol_1_1_datagram_channel.html" title="Binds the UDP port." alt="" coords="572,1488,788,1885"/>
+<area shape="rect" id="node15" href="$classcrypto_1_1_symmetric_cipher.html" title="Instances of the Symmetric cipher class arew used to cipher peer&#45;to&#45;peer datagram packets..." alt="" coords="799,1067,961,1395"/>
+</map>

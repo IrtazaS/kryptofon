@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classaudio_1_1_abstract_c_o_d_e_c.html" title="Base class for CODECs that can convert to and from PCM." alt="" coords="103,764,273,1127"/>
+<area shape="rect" id="node9" href="$classaudio_1_1_audio_interface_p_c_m.html" title="Implements the audio interface for 16&#45;bit signed linear audio (PCM_SIGNED)." alt="" coords="297,365,543,1525"/>
+<area shape="rect" id="node5" href="$classaudio_1_1_audio_codec_alaw.html" title="Converts a 16&#45;bit linear PCM stream from and to 8&#45;bit A&#45;law." alt="" coords="5,1574,176,1850"/>
+<area shape="rect" id="node7" href="$classaudio_1_1_audio_codec_ulaw.html" title="Converts a 16&#45;bit linear PCM stream from and to 8&#45;bit u&#45;law." alt="" coords="200,1574,371,1850"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classprotocol_1_1_datagram_channel.html" title="Binds the UDP port." alt="" coords="189,701,405,1099"/>
+<area shape="rect" id="node17" href="$classprotocol_1_1_call_context.html" title="CallContext deals with all the packets that are part of a specific call." alt="" coords="477,606,669,1194"/>
+<area shape="rect" id="node7" href="$classcrypto_1_1_symmetric_cipher.html" title="Instances of the Symmetric cipher class arew used to cipher peer&#45;to&#45;peer datagram packets..." alt="" coords="5,184,168,512"/>
+<area shape="rect" id="node20" href="$interfaceaudio_1_1_audio_interface.html" title="The abstract audio interface." alt="" coords="587,193,757,503"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$classaudio_1_1_audio_codec_alaw.html" title="Converts a 16&#45;bit linear PCM stream from and to 8&#45;bit A&#45;law." alt="" coords="5,777,176,1053"/>
+<area shape="rect" id="node7" href="$classaudio_1_1_audio_codec_ulaw.html" title="Converts a 16&#45;bit linear PCM stream from and to 8&#45;bit u&#45;law." alt="" coords="200,777,371,1053"/>
+<area shape="rect" id="node2" href="$interfaceaudio_1_1_audio_interface.html" title="The abstract audio interface." alt="" coords="103,6,273,317"/>
+</map>

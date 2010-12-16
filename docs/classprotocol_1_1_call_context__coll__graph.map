@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classprotocol_1_1_remote_peer.html" title="Encapsulates the link between the UDP channel and a CallContext." alt="" coords="381,1041,544,1421"/>
+<area shape="rect" id="node4" href="$classprotocol_1_1_datagram_channel.html" title="Binds the UDP port." alt="" coords="183,1488,399,1885"/>
+<area shape="rect" id="node9" href="$classcrypto_1_1_symmetric_cipher.html" title="Instances of the Symmetric cipher class arew used to cipher peer&#45;to&#45;peer datagram packets..." alt="" coords="147,1067,309,1395"/>
+<area shape="rect" id="node20" href="$interfaceaudio_1_1_audio_interface.html" title="The abstract audio interface." alt="" coords="553,6,724,317"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node16" href="$classui_1_1_j_sec_state.html" title="Image indicating security state (unsecured/secured&#45;unverified/secured&#45;trusted)." alt="" coords="295,761,420,951"/>
+<area shape="rect" id="node54" href="$classui_1_1_j_image_button.html" title="JButton with transparent images and no borders." alt="" coords="444,770,569,942"/>
+<area shape="rect" id="node22" href="$classprotocol_1_1_datagram_channel.html" title="Binds the UDP port." alt="" coords="1717,657,1933,1055"/>
+<area shape="rect" id="node26" href="$classprotocol_1_1_remote_peer.html" title="Encapsulates the link between the UDP channel and a CallContext." alt="" coords="1843,1729,2005,2109"/>
+<area shape="rect" id="node33" href="$classprotocol_1_1_call_context.html" title="CallContext deals with all the packets that are part of a specific call." alt="" coords="1729,2662,1921,3250"/>
+<area shape="rect" id="node36" href="$interfaceaudio_1_1_audio_interface.html" title="The abstract audio interface." alt="" coords="1523,701,1693,1011"/>
+<area shape="rect" id="node38" href="$classcrypto_1_1_symmetric_cipher.html" title="Instances of the Symmetric cipher class arew used to cipher peer&#45;to&#45;peer datagram packets..." alt="" coords="1831,167,1993,495"/>
+<area shape="rect" id="node61" href="$classcrypto_1_1_public_encryptor.html" title="Implements public part of the asymmetric cipher (with public key) used to send encrypted local secret..." alt="" coords="1004,158,1244,503"/>
+<area shape="rect" id="node45" href="$classpbx_1_1_p_b_x_client.html" title="Encapsulates rudimentary functionality of a PBX to list and invite users (peers) to secure calls..." alt="" coords="1299,605,1499,1107"/>
+<area shape="rect" id="node51" href="$interfacepbx_1_1_p_b_x_client_1_1_context.html" title="Provides a call&#45;back context for the instance of PBXClient." alt="" coords="1375,219,1580,443"/>
+</map>

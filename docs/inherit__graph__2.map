@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$interfaceaudio_1_1_audio_interface_1_1_packetizer.html" title="Audio sender interface used by instance of the AudioInterface class to send captured audio samples to..." alt="" coords="5,5,211,35"/>
+<area shape="rect" id="node3" href="$classprotocol_1_1_voice_p_d_u_sender.html" title="Takes captured audio and sends it to the remote peer via UDP channel." alt="" coords="259,5,432,35"/>
+</map>
