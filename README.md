@@ -9,7 +9,8 @@ The full documentation is [here](https://mekeetsa.github.io/kryptofon).
 
 * [Kryptofon User's Guide (PDF)](docs/description/Kryptofon_UsersGuide.pdf)
 * [Kryptofon System Internals (PDF)](docs/description/Kryptofon_SysInternals.pdf)
-* [Javadoc (instead of Doxygen)](https://mekeetsa.github.io/kryptofon/java-docs/)
+* [Doxygen](https://mekeetsa.github.io/kryptofon/)
+* [Javadoc](https://mekeetsa.github.io/kryptofon/java-docs/)
 
 ## Executable
 
