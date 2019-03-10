@@ -1,7 +1,7 @@
 # Kryptofon, a secure Voice over IP phone
 
 Kryptofon is a Java based application for a secured voice and short message communication between the internet users. 
-The full documentation is [here](https://mekeetsa.github.io/kryptofon).
+The full documentation is [here](https://complabs.github.io/kryptofon).
 
 ![screenshot](docs/kryptofon.png)
 
@@ -9,8 +9,8 @@ The full documentation is [here](https://mekeetsa.github.io/kryptofon).
 
 * [Kryptofon User's Guide (PDF)](docs/description/Kryptofon_UsersGuide.pdf)
 * [Kryptofon System Internals (PDF)](docs/description/Kryptofon_SysInternals.pdf)
-* [Doxygen](https://mekeetsa.github.io/kryptofon/)
-* [Javadoc](https://mekeetsa.github.io/kryptofon/java-docs/)
+* [Doxygen](https://complabs.github.io/kryptofon/)
+* [Javadoc](https://complabs.github.io/kryptofon/java-docs/)
 
 ## Executable
 
